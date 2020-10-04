@@ -51,5 +51,5 @@ sudo systemctl start docker
 ```sh
 sudo docker run hello-world
 ```
-# Docker Installation on CentOS server
+# Docker Installation on Ubuntu server
 Please follow steps mentioned in https://docs.docker.com/engine/install/ubuntu/
